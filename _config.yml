@@ -1,0 +1,29 @@
+# CleverBuy - GitHub Pages Configuration
+
+title: "CleverBuy"
+description: "Smart Shopping List Application"
+url: "https://AndreiDzehtsiarou.github.io"
+baseurl: "/cleverbuy"
+
+# Theme
+theme: minima
+
+# Author
+author:
+  name: "Andrei Dzehtsiarou"
+  email: "andrej.dzehtsiarou@gmail.com"
+
+# Markdown processor
+markdown: kramdown
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files
+exclude:
+  - .gitignore
+  - README.md
+  - Gemfile
+  - Gemfile.lock
