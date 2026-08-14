@@ -7,7 +7,7 @@ title: Terms of Service
 
 ## CleverBuy Application
 
-**Last Updated: August 2024**
+**Last Updated: August 2026**
 
 ---
 
@@ -118,6 +118,6 @@ If any provision of this Agreement is found to be invalid or unenforceable, the 
 
 ---
 
-© 2024 Andrei Dzehtsiarou. All rights reserved.
+© 2026 Andrei Dzehtsiarou. All rights reserved.
 
-[← Back to Home](/)
+[← Back to Home](../)

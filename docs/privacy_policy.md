@@ -7,7 +7,7 @@ title: Privacy Policy
 
 ## CleverBuy Application
 
-**Last Updated: August 2024**
+**Last Updated: August 2026**
 
 ---
 
@@ -66,11 +66,13 @@ The Application may display advertisements from Google AdMob and other advertisi
 However, **we do NOT share your personal data from the Application with these advertising networks.**
 
 Each advertising network operates under its own privacy policy:
+
 - [Google AdMob Privacy Policy](https://policies.google.com/privacy)
 
 ### 4.2 Google Play Services
 
 The Application may use Google Play Services for:
+
 - App distribution and updates
 - In-app purchases (if implemented)
 - Crash reporting and analytics
@@ -128,6 +130,6 @@ This Privacy Policy is designed to comply with:
 
 ---
 
-© 2024 Andrei Dzehtsiarou. All rights reserved.
+© 2026 Andrei Dzehtsiarou. All rights reserved.
 
-[← Back to Home](/)
+[← Back to Home](../)
