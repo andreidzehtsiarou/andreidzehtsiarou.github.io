@@ -37,4 +37,4 @@ Download the application from Google Play Store:
 
 ---
 
-**© 2024 Andrei Dzehtsiarou. All rights reserved.**
+**© 2026 Andrei Dzehtsiarou. All rights reserved.**
