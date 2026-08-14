@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - CleverBuy</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="CleverBuy - Smart Shopping List Application for Android">
+    <meta name="author" content="Andrei Dzehtsiarou">
+    <meta property="og:title" content="CleverBuy">
+    <meta property="og:description" content="Smart Shopping List Application for Android">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    
+    <!-- Favicon (optional) -->
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='75' font-size='75' font-weight='bold' fill='%232563eb'>🛒</text></svg>">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <h1>🛒 CleverBuy</h1>
+            <p>Smart Shopping List Application</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+        {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Andrei Dzehtsiarou. All rights reserved.</p>
+            <p>
+                <a href="https://play.google.com/store/apps/details?id=com.dzehtsiarou.cleverbuy">Google Play</a> •
+                <a href="mailto:andrej.dzehtsiarou@gmail.com">Email</a> •
+                <a href="https://github.com/AndreiDzehtsiarou">GitHub</a>
+            </p>
+        </div>
+    </footer>
+
+    <!-- Optional: Analytics (if you want to track visitors) -->
+    <!-- Google Analytics or similar can be added here -->
+</body>
+</html>
