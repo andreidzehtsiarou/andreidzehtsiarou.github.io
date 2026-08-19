@@ -1,17 +1,16 @@
-# CleverBuy - GitHub Pages Configuration
+# Portfolio Site Configuration
 
-title: "CleverBuy"
-description: "Smart Shopping List Application"
-url: "https://AndreiDzehtsiarou.github.io"
-baseurl: "/cleverbuy"
-
-# Theme
-theme: minima
+title: "Andrei Dzehtsiarou"
+description: "Android Developer | 4+ years experience | Kotlin, Jetpack Compose, MVVM"
+url: "https://andreidzehtsiarou.github.io"
+baseurl: ""
 
 # Author
 author:
   name: "Andrei Dzehtsiarou"
   email: "andrej.dzehtsiarou@gmail.com"
+  linkedin: "andrew-degtiarov-02857421a"
+  github: "AndreiDzehtsiarou"
 
 # Markdown processor
 markdown: kramdown
@@ -27,3 +26,4 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - cleverbuy/

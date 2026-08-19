@@ -1,0 +1,12 @@
+# Robots.txt for andreidzehtsiarou.github.io
+# Allow all search engines to index the site
+
+User-agent: *
+Allow: /
+Disallow: 
+
+# Specify sitemap location
+Sitemap: https://andreidzehtsiarou.github.io/sitemap.xml
+
+# Crawl-delay to be respectful to servers (optional)
+Crawl-delay: 1
