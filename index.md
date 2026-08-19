@@ -3,7 +3,7 @@ layout: default
 title: CleverBuy - Smart Shopping List
 ---
 
-# 🛒 CleverBuy
+# <img src="assets/images/icon.webp" alt="CleverBuy" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"> CleverBuy
 
 **Smart Shopping List Application** for Android
 
