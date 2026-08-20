@@ -13,19 +13,28 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
     
+    <!-- Google Site Verification -->
+    <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" />
+    
     <!-- Styles -->
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
     <link rel="canonical" href="{{ page.url | absolute_url }}">
     
-    <!-- Favicon (optional) -->
+    <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='75' font-size='75' font-weight='bold' fill='%232563eb'>🛒</text></svg>">
 </head>
 <body>
-    <!-- Header -->
-    <header>
-        <div class="container">
-            <h1>🛒 CleverBuy</h1>
-            <p>Smart Shopping List Application</p>
+    <!-- Compact Navigation Bar -->
+    <header class="navbar">
+        <div class="container navbar-content">
+            <a href="{{ site.baseurl }}/" class="navbar-brand">
+                <img src="{{ site.baseurl }}/assets/images/icon.webp" alt="CleverBuy" class="navbar-icon">
+                CleverBuy
+            </a>
+            <nav class="navbar-links">
+                <a href="{{ site.baseurl }}/">Home</a>
+                <a href="{{ site.baseurl }}/cleverbuy/">Projects</a>
+            </nav>
         </div>
     </header>
 
@@ -34,19 +43,7 @@
         {{ content }}
     </main>
 
-    <!-- Footer -->
-    <footer>
-        <div class="container">
-            <p>&copy; 2024 Andrei Dzehtsiarou. All rights reserved.</p>
-            <p>
-                <a href="https://play.google.com/store/apps/details?id=com.dzehtsiarou.cleverbuy">Google Play</a> •
-                <a href="mailto:andrej.dzehtsiarou@gmail.com">Email</a> •
-                <a href="https://github.com/AndreiDzehtsiarou">GitHub</a>
-            </p>
-        </div>
-    </footer>
-
-    <!-- Optional: Analytics (if you want to track visitors) -->
+    <!-- Optional: Analytics -->
     <!-- Google Analytics or similar can be added here -->
 </body>
 </html>
