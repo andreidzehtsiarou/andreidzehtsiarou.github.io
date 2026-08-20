@@ -5,7 +5,7 @@ title: Andrei Dzehtsiarou - Android Developer
 
 # 👨‍💻 Andrei Dzehtsiarou
 
-**Android Developer** | 4+ years of experience | Kotlin, Jetpack Compose, MVVM/MVI
+**Android Developer** | 5+ years of experience | Kotlin, Jetpack Compose, MVVM/MVI
 
 I'm an independent Android developer specializing in modern Android development with Kotlin.
 
