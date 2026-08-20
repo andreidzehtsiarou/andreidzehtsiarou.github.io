@@ -41,7 +41,9 @@ Experienced Android developer with over 5 years of commercial development. I foc
 
 ## 📱 Projects
 
+({{ site.baseurl }}/assets/images/icon.webp)
 **[### CleverBuy - Smart Shopping List](cleverbuy/)**
+
 A minimalist shopping list application for Android.
 
 **Features:**
