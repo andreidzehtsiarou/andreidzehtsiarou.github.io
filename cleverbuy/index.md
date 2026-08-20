@@ -3,15 +3,13 @@ layout: default
 title: CleverBuy - Smart Shopping List
 ---
 
-<div class="project">
+<div class="project-title">
     <img src="{{ site.baseurl }}/assets/images/icon.webp"
          alt="CleverBuy"
          class="project-icon">
 
-    CleverBuy - Smart Shopping List
+    <h3>CleverBuy - Smart Shopping List</h3>
 </div>
-
-<p>A minimalist shopping list application for Android.</p>
 
 **Smart Shopping List Application** for Android
 
