@@ -225,6 +225,18 @@ tbody tr:hover {
   margin-top: 0;
 }
 
+.project-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+}
+
+.project-icon {
+    width: 48px;
+    height: 48px;
+}
+
 /* Footer */
 footer {
   background: var(--bg-light);
