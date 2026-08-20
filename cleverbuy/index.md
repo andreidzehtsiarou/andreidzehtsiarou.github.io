@@ -3,7 +3,15 @@ layout: default
 title: CleverBuy - Smart Shopping List
 ---
 
-# 🛒 CleverBuy
+<div class="project">
+    <img src="{{ site.baseurl }}/assets/images/icon.webp"
+         alt="CleverBuy"
+         class="project-icon">
+
+    CleverBuy - Smart Shopping List
+</div>
+
+<p>A minimalist shopping list application for Android.</p>
 
 **Smart Shopping List Application** for Android
 
@@ -20,16 +28,6 @@ CleverBuy is a minimalist, efficient shopping list application that helps you or
 - 📋 View shopping history
 - 🎯 Simple and intuitive interface
 - 🎨 Material You design
-
-### Technologies Used
-
-- **Language:** Kotlin
-- **UI:** Jetpack Compose
-- **Architecture:** MVVM
-- **Local Storage:** Room
-- **Dependency Injection:** Koin
-- **Notifications:** Android FCM
-- **Design:** Material You
 
 ## Download
 
