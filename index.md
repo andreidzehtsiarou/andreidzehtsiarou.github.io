@@ -58,3 +58,7 @@ A minimalist shopping list application for Android.
 - **Email:** [andrej.dzehtsiarou@gmail.com](mailto:andrej.dzehtsiarou@gmail.com)
 - **LinkedIn:** [andrew-degtiarov-02857421a](https://www.linkedin.com/in/andrew-degtiarov-02857421a)
 - **GitHub:** [AndreiDzehtsiarou](https://github.com/AndreiDzehtsiarou)
+
+---
+
+- **© 2026 Andrei Dzehtsiarou. All rights reserved.**
