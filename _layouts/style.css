@@ -237,6 +237,16 @@ tbody tr:hover {
     height: 48px;
 }
 
+.project-title {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.project-title h3 {
+    margin: 0;
+}
+
 /* Footer */
 footer {
   background: var(--bg-light);
