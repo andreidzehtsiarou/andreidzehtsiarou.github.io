@@ -106,4 +106,4 @@ For questions or support:
 
 ## License
 
-© 2024 Andrei Dzehtsiarou. All rights reserved.
+© 2026 Andrei Dzehtsiarou. All rights reserved.
