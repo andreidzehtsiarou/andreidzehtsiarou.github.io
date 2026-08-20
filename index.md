@@ -41,9 +41,14 @@ Experienced Android developer with over 5 years of commercial development. I foc
 
 ## 📱 Projects
 
-<img src="{{ site.baseurl }}/assets/images/icon.webp"
-     alt="CleverBuy - Smart Shopping List"
-     class="navbar-icon"> **[CleverBuy - Smart Shopping List](cleverbuy/)**
+<div class="project">
+    <a href="{{ site.baseurl }}/cleverbuy/" class="project-link">
+        <img src="{{ site.baseurl }}/assets/images/icon.webp"
+             alt="CleverBuy"
+             class="project-icon">
+        <span>CleverBuy - Smart Shopping List</span>
+    </a>
+</div>
 
 A minimalist shopping list application for Android.
 
