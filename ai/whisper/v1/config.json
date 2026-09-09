@@ -1,0 +1,15 @@
+{
+  "versionCode": 1,
+  "activeModel": "small",
+  "models": {
+    "base": {
+      "url": "https://huggingface.co/AndStarTut/whisper-tflite-models/resolve/main/whisper-base.tflite",
+      "size": 78512512,
+      "sha256": ""
+    }
+  },
+  "assets": {
+    "vocab": "https://andreidzehtsiarou.github.io/ai/whisper/v1/vocab.json",
+    "filters": "https://andreidzehtsiarou.github.io/ai/whisper/v1/filters.bin"
+  }
+}
