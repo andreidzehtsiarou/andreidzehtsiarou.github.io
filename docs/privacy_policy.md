@@ -125,15 +125,15 @@ The Application uses Google AdMob to display advertisements. Google AdMob and ot
 The Application integrates Google AdMob and other advertising networks. These services collect and process data as described in Section 4.2.
 
 **What the Developer Does NOT Share:**
-- ❌ We do NOT manually share your shopping lists with advertisers
-- ❌ We do NOT share your personal content with advertising networks
-- ❌ We do NOT sell your personal shopping data to third parties
+- We don't manually share your shopping lists with advertisers
+- We don't share your personal content with advertising networks
+- We don't sell your personal shopping data to third parties
 
 **What Advertising Networks Collect Automatically:**
-- ✅ Device identifiers and device information
-- ✅ Application usage data and interaction patterns
-- ✅ Approximate location (if permissions granted)
-- ✅ Crash reports and app performance data
+- Device identifiers and device information
+- Application usage data and interaction patterns
+- Approximate location (if permissions granted)
+- Crash reports and app performance data
 
 These services collect this data automatically through their SDKs integrated into the Application.
 
