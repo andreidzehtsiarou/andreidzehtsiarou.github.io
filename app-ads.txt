@@ -2618,3 +2618,4 @@ pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 pubmatic.com, 168244, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
+vungle.com, 6aabe19d5846cac3aaf39f34, DIRECT, c107d686becd2d77
